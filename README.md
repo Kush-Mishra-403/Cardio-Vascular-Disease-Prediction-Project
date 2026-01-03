@@ -1,4 +1,4 @@
-# Cardio-Vascular-Disease-Prediction-Project
+# Cardio Vascular Disease Prediction Project
 
 - This project utilizes the Framingham Heart Study dataset, which is a landmark study that has been ongoing for decades in Framingham, Massachusetts. The dataset contains valuable information about residents, including their demographic details, behavioral patterns, and medical information.
 
